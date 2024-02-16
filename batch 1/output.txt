@@ -1,0 +1,10 @@
+Hello : 0
+My Name : 1
+Is  : 2
+Michael : 3
+Scott : 4
+0	Hello	5
+1	My Name	7
+2	Is 	3
+3	Michael	7
+4	Scott	5
