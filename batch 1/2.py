@@ -21,5 +21,5 @@ def check_prime(n):
 
 
 for i in range(a, b+1):
-    if check_fibonacci(i) and check_prime(i) == False:
+    if check_fibonacci(i) == False and check_prime(i) == False:
         print(i)
