@@ -8,8 +8,8 @@ def check_fibonacci(n):
     c = 0
     while c < n:
         c = a + b
-        b = c
         a = b
+        b = c
     return False if c != n else True
         
 def check_prime(n):
